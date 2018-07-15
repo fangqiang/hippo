@@ -1,0 +1,9 @@
+.idea
+*.iml
+*/target
+db/
+hippo.log
+*.log
+target/
+shutter/
+out/
